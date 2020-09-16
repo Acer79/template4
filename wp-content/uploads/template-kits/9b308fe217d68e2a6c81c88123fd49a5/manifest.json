@@ -1,0 +1,932 @@
+{
+    "manifest_version": "1.0.14",
+    "title": "Koffe - Coffee Shop and Bar Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Homepage 1",
+            "screenshot": "screenshots\/homepage-1.jpg",
+            "source": "templates\/homepage-1.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/homepage-1\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 2",
+            "screenshot": "screenshots\/homepage-2.jpg",
+            "source": "templates\/homepage-2.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/homepage-2\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 3",
+            "screenshot": "screenshots\/homepage-3.jpg",
+            "source": "templates\/homepage-3.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/homepage-3\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage 4",
+            "screenshot": "screenshots\/homepage-4.jpg",
+            "source": "templates\/homepage-4.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/homepage-4\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Gallery",
+            "screenshot": "screenshots\/our-gallery.jpg",
+            "source": "templates\/our-gallery.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/our-gallery\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Menu",
+            "screenshot": "screenshots\/our-menu.jpg",
+            "source": "templates\/our-menu.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/our-menu\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/our-team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "What We Offer",
+            "screenshot": "screenshots\/what-we-offer.jpg",
+            "source": "templates\/what-we-offer.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/what-we-offer\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "http:\/\/elementor.haidezign.net\/koffe\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "2.9.13",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        }
+    ],
+    "images": [
+        {
+            "filename": "s25.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s25-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 526039,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/barista-standing-in-the-doorway-of-a-restaurant-PULS7SF"
+        },
+        {
+            "filename": "s6.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s6-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 363081,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/male-coffee-shop-owner-standing-at-the-counter-PN63NMC"
+        },
+        {
+            "filename": "koffe3a-1.png",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/koffe3a-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 293762,
+            "dimensions": [
+                400,
+                606
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-craftsman-with-arms-crossed-FQRKQRR"
+        },
+        {
+            "filename": "s23.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s23-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 784091,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/breakfast-with-coffee-and-croissant-FXPL5SN"
+        },
+        {
+            "filename": "s8.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s8-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 388376,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-young-friends-hangout-in-coffee-shop-MEBW3YU"
+        },
+        {
+            "filename": "testimonial-2.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/testimonial-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 21874,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-business-people-looking-at-camera-84EWTZG"
+        },
+        {
+            "filename": "s24.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s24-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 390936,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/break-casual-coffee-shop-coworker-cheerful-concept-PCGBPA5"
+        },
+        {
+            "filename": "s15.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s15-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 368210,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cropped-shot-of-a-group-of-friends-chatting-at-hom-93HHJXK"
+        },
+        {
+            "filename": "s13.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s13-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 355271,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/customer-paying-in-coffee-shop-using-credit-card-PXV8TZF"
+        },
+        {
+            "filename": "s11.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s11-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 458822,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-or-bar-interior-daytime-PGTYW96"
+        },
+        {
+            "filename": "s4.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s4-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-1.json",
+                    "name": "Homepage 1"
+                },
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                }
+            ],
+            "filesize": 412251,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-local-coffee-shop-owners-PE95NTM"
+        },
+        {
+            "filename": "s10.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s10-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                }
+            ],
+            "filesize": 427249,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/empty-cafe-or-bar-interior-daytime-PMCGSRE"
+        },
+        {
+            "filename": "s1.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s1-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 405265,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/young-women-friends-placing-an-order-in-a-coffee-s-PNKNPEE"
+        },
+        {
+            "filename": "s20.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s20-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 833793,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/coffee-beans-PBM86PT"
+        },
+        {
+            "filename": "testimonial-1-1.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/testimonial-1-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 32091,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-business-people-looking-at-camera-84EWTZG"
+        },
+        {
+            "filename": "testimonial-4.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/testimonial-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-2.json",
+                    "name": "Homepage 2"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 18575,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-business-people-looking-at-camera-84EWTZG"
+        },
+        {
+            "filename": "koffemockup-1.png",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/koffemockup-1.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-menu.json",
+                    "name": "Our Menu"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 154418,
+            "dimensions": [
+                400,
+                600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "s2.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s2-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/our-gallery.json",
+                    "name": "Our Gallery"
+                },
+                {
+                    "source": "templates\/what-we-offer.json",
+                    "name": "What We Offer"
+                }
+            ],
+            "filesize": 411847,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/waiter-taking-female-customers-order-in-coffee-sho-P5K79RF"
+        },
+        {
+            "filename": "testimonial-3-1.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/testimonial-3-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-3.json",
+                    "name": "Homepage 3"
+                },
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 18229,
+            "dimensions": [
+                300,
+                300
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/team-of-business-people-looking-at-camera-84EWTZG"
+        },
+        {
+            "filename": "s3.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/s3-600x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-4.json",
+                    "name": "Homepage 4"
+                }
+            ],
+            "filesize": 339934,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/two-glass-mugs-of-chemex-coffee-on-wooden-table-3CUG24Y"
+        },
+        {
+            "filename": "c1.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/c1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 72624,
+            "dimensions": [
+                600,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/apron-barista-coffee-cafe-concept-PZ2PWCM"
+        },
+        {
+            "filename": "c5.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/c5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 94734,
+            "dimensions": [
+                600,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-local-coffee-shop-owners-PE95NTM"
+        },
+        {
+            "filename": "c4.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/c4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 76469,
+            "dimensions": [
+                600,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/barista-standing-in-the-doorway-of-a-restaurant-PULS7SF"
+        },
+        {
+            "filename": "c3.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/c3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 75187,
+            "dimensions": [
+                600,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-craftsman-with-arms-crossed-FQRKQRR"
+        },
+        {
+            "filename": "c2.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/c2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 84324,
+            "dimensions": [
+                600,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/apron-barista-coffee-cafe-concept-PZ2PWCM"
+        },
+        {
+            "filename": "c6.jpg",
+            "thumbnail_url": "http:\/\/elementor.haidezign.net\/koffe\/wp-content\/uploads\/sites\/2\/2020\/07\/c6.jpg",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 91982,
+            "dimensions": [
+                600,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/successful-local-coffee-shop-owners-PE95NTM"
+        }
+    ]
+}
